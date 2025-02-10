@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a clone of the popular design and development agency website [Cuberto](). The project replicates the sleek animations, modern UI, and interactive elements of the original site using cutting-edge web technologies.
+This is a clone of the popular design and development agency website [Kuberto](). The project replicates the sleek animations, modern UI, and interactive elements of the original site using cutting-edge web technologies.
 
 ## Tech Stack
 
